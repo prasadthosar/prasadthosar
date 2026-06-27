@@ -15,10 +15,10 @@ Architecting systems that move fast and scale harder.
 
 ### 🔗 Find me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasadthosar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasadthosar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasadthosar-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/prasad-thosar-4a04462ab)
 [![Twitter](https://img.shields.io/badge/Twitter-@prasadthosar-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/prasadthosar)
 [![Instagram](https://img.shields.io/badge/Instagram-prasadthosar-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/prasadthosar)
-[![Email](https://img.shields.io/badge/Email-say%20hello-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasad@novaex.ai)
+[![Email](https://img.shields.io/badge/Email-say%20hello-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasadthosar05@gmail.com)
 
 ---
 
