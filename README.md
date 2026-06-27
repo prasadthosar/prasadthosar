@@ -61,12 +61,6 @@ Architecting systems that move fast and scale harder.
 
 ---
 
-### 🔥 Streak
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadthosar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
-</div>
-
 
 ### ⚡ A bit more
 
