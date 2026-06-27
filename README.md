@@ -53,10 +53,10 @@ Architecting systems that move fast and scale harder.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadthosar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prasadthosar&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadthosar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadthosar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> -->
 </p>
 
 ---
