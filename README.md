@@ -61,6 +61,14 @@ Architecting systems that move fast and scale harder.
 
 ---
 
+
+### 🐍 Contribution snake
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prasadthosar/prasadthosar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+---
+
 ### ⚡ A bit more
 
 ```yaml
