@@ -62,11 +62,3 @@ Architecting systems that move fast and scale harder.
 ---
 
 
-### ⚡ A bit more
-
-```yaml
-currently:   Building data infrastructure @ Novaex
-learning:    Advanced stream processing & distributed systems
-outside:     Cricket on weekends · Sneaker collector · Serious foodie
-ask me:      Backend architecture · Data pipelines · Cloud infra
-```
