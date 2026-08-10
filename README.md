@@ -162,12 +162,12 @@ and even easier to debug when they're not.
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=prasadthosar&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=prasadthosar&show_icons=true&hide_border=true&count_private=true&theme=github_dark"
     alt="Prasad's GitHub Stats"
   />
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prasadthosar&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prasadthosar&hide_border=true&theme=github-dark-blue"
     alt="Prasad's GitHub Streak"
   />
 </p>
@@ -175,7 +175,7 @@ and even easier to debug when they're not.
 <p align="center">
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadthosar&layout=compact&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasadthosar&layout=compact&hide_border=true&theme=github_dark"
     alt="Most Used Languages"
   />
 </p>
@@ -186,7 +186,7 @@ and even easier to debug when they're not.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadthosar&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadthosar&hide_border=true&theme=github-compact"
     alt="Prasad's Contribution Graph"
   />
 </p>
