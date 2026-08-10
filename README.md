@@ -1,3 +1,11 @@
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=prasadthosar&label=Profile%20Views&style=for-the-badge"
+    alt="Prasad Thosar profile views"
+  />
+</p>
+
+
 # Hey, I'm Prasad Thosar 👋
 
 ```text
