@@ -180,13 +180,6 @@ and even easier to debug when they're not.
   />
 </p>
 
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasadthosar&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most Used Languages"
-  />
-</p>
 
 ---
 
