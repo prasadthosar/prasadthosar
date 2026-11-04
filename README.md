@@ -1,10 +1,10 @@
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=prasadthosar&label=Profile%20Views&style=for-the-badge"
     alt="Prasad Thosar profile views"
   />
 </p>
+
 
 # Hey, I'm Prasad Thosar 👋
 
@@ -33,7 +33,7 @@ Architecting systems that move fast and scale harder.
 ## 🔗 Find Me On
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prasad-thosar-4a04462ab/">
+  <a href="www.linkedin.com/in/prasad-thosar-4a04462ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/prasadthosar">
@@ -180,21 +180,17 @@ and even easier to debug when they're not.
   />
 </p>
 
+
 ---
-
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/prasadthosar/prasadthosar/output/contribution-line-chart.svg"
-    alt="Prasad's GitHub Contribution Line Chart"
-    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadthosar&hide_border=true&theme=github-compact"
+    alt="Prasad's Contribution Graph"
   />
 </p>
-
-
 
 ---
 
