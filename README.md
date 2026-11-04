@@ -183,14 +183,19 @@ and even easier to debug when they're not.
 
 ---
 
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadthosar&hide_border=true&theme=github-compact"
-    alt="Prasad's Contribution Graph"
-  />
+  <a href="https://github.com/prasadthosar">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=prasadthosar&theme=github-compact&hide_border=true"
+      alt="Prasad's GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
