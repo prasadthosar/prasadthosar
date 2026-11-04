@@ -182,17 +182,19 @@ and even easier to debug when they're not.
 
 ---
 
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <a href="https://github.com/prasadthosar">
     <img
-      src="https://ghchart.rshah.org/00C9A7/prasadthosar"
-      alt="Prasad Thosar's GitHub Contribution Graph"
+      src="https://raw.githubusercontent.com/prasadthosar/prasadthosar/output/github-contribution-grid-snake-dark.svg"
+      alt="Prasad's GitHub Contribution Graph"
       width="100%"
     />
   </a>
 </p>
+
 
 ---
 
