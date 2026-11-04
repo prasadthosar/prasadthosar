@@ -1,5 +1,5 @@
 
-name: Generate Contribution Graph
+name: Generate Contribution Line Chart
 
 on:
   schedule:
@@ -14,15 +14,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: prasadthosar
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Publish contribution snake
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests matplotlib
+
+      - name: Generate contribution chart
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/contribution_graph.py
+
+      - name: Publish chart
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
