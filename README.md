@@ -106,20 +106,6 @@ I like systems that are easy to understand when everything is working —
 and even easier to debug when they're not.
 
 ---
-### ☁️ Project Three
-
-> A cloud infrastructure, DevOps, or backend systems project.
-
-**Tech:** `AWS` `Terraform` `Kubernetes`
-
-- 🏗️ Infrastructure as Code
-- 📦 Container orchestration
-- 📈 Scalable infrastructure
-- 🔍 Monitoring and observability
-
-[View Project →](YOUR_PROJECT_URL)
-
----
 
 ## 📈 Currently Exploring
 
