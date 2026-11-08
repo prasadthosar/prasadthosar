@@ -107,23 +107,6 @@ and even easier to debug when they're not.
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 Project One
-
-> A short description of an interesting backend or data engineering project.
-
-**Tech:** `Go` `Kafka` `PostgreSQL` `Docker`
-
-- ⚡ High-throughput event processing
-- 🔄 Event-driven architecture
-- 📊 Built with observability in mind
-- 🐳 Containerized deployment
-
-[View Project →](YOUR_PROJECT_URL)
-
----
-
 ### ⚡ Project Two
 
 > A real-time data processing or streaming project.
