@@ -106,22 +106,6 @@ I like systems that are easy to understand when everything is working —
 and even easier to debug when they're not.
 
 ---
-
-### ⚡ Project Two
-
-> A real-time data processing or streaming project.
-
-**Tech:** `Python` `Redis` `Docker` `AWS`
-
-- 📡 Real-time data ingestion
-- ⚙️ Asynchronous processing
-- 💾 Efficient caching and persistence
-- ☁️ Cloud-native deployment
-
-[View Project →](YOUR_PROJECT_URL)
-
----
-
 ### ☁️ Project Three
 
 > A cloud infrastructure, DevOps, or backend systems project.
